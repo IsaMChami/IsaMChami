@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## FUNFACTS! <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" width="60">
+## INFO! <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" width="60">
 
 -  **My fav type of games are ***visual novels*** and ***point&click's***!**
 -  **I learn fast but I can take my time too ╯︿╰**
